@@ -69,3 +69,131 @@ p {
     background: #444;
     color: #f7c08a
 }
+
+/* Showcase */
+/* #showcase {
+    background: url(../img/Majeeddddd.jpg) no-repeat top left /cover;
+    height: 600px;
+} */
+
+#showcase .showcase-content {
+    color: rgb(6, 0, 0);
+    text-align: left;
+    padding: 170px;
+
+}
+.hero {
+    margin-left: 8%;
+    margin-top: 15%;
+}
+
+.hero1 h1 {
+    font-size: 60px;
+    color: #f7c08a;
+    margin-bottom: 20px;
+
+}
+
+.hero-image {
+    height: 90%;
+    position: absolute;
+    left: 55%;
+    bottom: 1%;
+}
+
+/* Section two goals */
+#goals {
+    background-color: #444;
+    text-align: left;
+    padding: 60px;
+    margin: 0;
+    color: aliceblue;
+}
+#goal-header {
+    color: #f7c08a;
+}
+
+/* Education */
+.box {
+    float: left;
+    width: 33.3%;
+    padding: 50px;
+    text-align: center justify;
+}
+#bg-2 {
+    background-color: #444;
+    color: #fff;
+}
+.job-ex-header {
+    background-color: #444;
+    text-align: center;
+    padding-top: 20px;
+    color: #f7c08a;
+}
+
+/* contact form */
+#contact-form h3 {
+    color: #f7c08a;
+}
+
+#contact-form {
+    text-align: left;
+    background: #444;
+    color: #fff;
+    padding: 20px;
+}
+#contact-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+#contact-form input, 
+#contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px #ddd solid;
+}
+
+#contact-form textarea {
+    height: 200px;
+}
+#contact-form input:focus, 
+#contact-form textarea:focus {
+    outline: none;
+    border-color: #f7c08a;
+
+}
+
+#contact-form button {
+    padding: 20px;
+    border: 2px #f7c08a solid;
+}
+#contact-form button:hover {
+    border: 3px #333 solid;
+    background-color: #f7c08a;
+}
+#edu-hobbies {
+    background-color: #ddd;
+    text-align: left;
+    padding: 0;
+    margin: 0;
+    color: aliceblue;
+}
+#edu-hobbies h3 {
+    color: #f7c08a;
+}
+
+h3 #hob {
+    float: right;
+    position: top;
+}
+
+.table {
+    align-content: center;
+}
+
+/* sign in */
+.main-sec {
+    position: absolute;
+    transform: -50% -50%;
+}
